@@ -47,7 +47,7 @@ Villaflores_Wildfire/
 ├── data/                      # Not included in repo (see Setup and Usage)
 ├── output/                    # Analysis outputs
 │   ├── plots/                 # Visualizations (e.g. model AUC)
-│   ├── models/                # Models
+│   ├── models/                # Models (e.g mod_15)
 │   └── grid/                  # Spatial outputs (e.g., malla_mod_F15.shp)
 ├── docs/                      # Documentation
 │   ├── thesis_summary.pdf     # Thesis overview
@@ -88,12 +88,12 @@ install.packages(c('terra', 'sf', 'dplyr', 'tidyterra', 'ggplot2', 'pROC', 'ROCR
 
 Below is the variable importance plot, showing the contribution of predictors to fire risk prediction (from `test.R`), and Villaflores fire ignition probability for the years 2012 to 2024.
 
-```{r pressure, echo=FALSE}
+```{r var_importance, echo=FALSE}
 knitr::include_graphics("output/plots/Var_Imp_Mod_F15.png")
 
 ```
 
-```{r pressure, echo=FALSE}
+```{r ignition, echo=FALSE}
 knitr::include_graphics("docs/visualizations/ignition.png")
 
 ```
