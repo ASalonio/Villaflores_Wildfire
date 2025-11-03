@@ -1,11 +1,6 @@
-thesis_summary
-================
+# Wildfire Occurrence Probability Modeling in Villaflores Municipality, Chiapas
 Augusto Pablo Salonio Carbó
 2025-09-16
-
-# Wildfire Occurrence Probability Modeling in Villaflores Municipality, Chiapas
-
-## Thesis Summary:
 
 The municipality of Villaflores, Chiapas, located within a high-density
 wildfire cluster in Mexico, has faced an increase in both the frequency
