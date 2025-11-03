@@ -2,6 +2,7 @@
 Augusto Pablo Salonio Carbó
 2025-09-16
 
+
 The municipality of Villaflores, Chiapas, located within a high-density
 wildfire cluster in Mexico, has faced an increase in both the frequency
 and burned area of wildfires between 2019 and 2024, surpassing the
