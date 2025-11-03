@@ -1,5 +1,5 @@
 ---
-title: "thesis_summary"
+title: "Thesis Summary"
 author: "Augusto Pablo Salonio Carbó"
 date: "2025-09-16"
 output: pdf_document
@@ -11,7 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Wildfire Occurrence Probability Modeling in Villaflores Municipality, Chiapas
 
-## Thesis Summary:
 
 The municipality of Villaflores, Chiapas, located within a high-density wildfire cluster in Mexico, has faced an increase in both the frequency and burned area of wildfires between 2019 and 2024, surpassing the averages for 2012–2024, particularly in coniferous and montane cloud forests. This study modeled the probability of wildfire occurrence (2012–2024) using logistic regression, incorporating topo-climatic predictors (e.g., wind speed), landscape predictors (e.g., green biomass density, forest–agriculture interface), and demographic predictors (e.g., population density). A wildfire probability map was generated, and the relative importance of predictors was assessed.
 
